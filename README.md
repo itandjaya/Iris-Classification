@@ -7,6 +7,7 @@ import_data.py	- A script to import and pre-process the dataset.
 NN_IRIS_main.py	- Main function to initiate the Neural Network model, and train it.
 NN_Model.py	    - A Neural Network class.
 Plot Data.png   - Plot of the raw data, showing the features and labels for the dataset.
+theta.NPY       - Learning variable file. This file is generated after 1st training run.
 
 Dataset information:
   Data Creator: R.A. Fisher
